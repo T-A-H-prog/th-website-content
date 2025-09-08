@@ -3,18 +3,18 @@
     "title": "Don Quijote",
     "author": "Miguel de Cervantes",
     "description": "You should join Don Quijote and Sancho Panza on their journey.",
-    "cover": "books/images/DonCoverImg.jpg"
+    "cover": "Books/images/DonCoverImg.jpg"
   },
   {
     "title": "Dune",
     "author": "Frank Herbert",
     "description": "It is evident that both 'Dune' and 'God Emperor of Dune' are works of great literary merit.",
-    "cover": "books/images/DuneCoverImg.jpg"
+    "cover": "Books/images/DuneCoverImg.jpg"
   },
   {
     "title": "Woman",
     "author": "Charles Bukowski",
     "description": "It will trigger something. Something will happen. It will happen in you.",
-    "cover": "books/images/CharlesCoverImg.jpg"
+    "cover": "Books/images/CharlesCoverImg.jpg"
   }
 ]
