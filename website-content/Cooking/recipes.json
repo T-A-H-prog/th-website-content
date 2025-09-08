@@ -15,6 +15,21 @@
       "Eggs – 1"
     ],
     "time": "40 minutes at 180°C (fan oven)",
-    "cover": "Cooking/images/Joghurt_Brot.png"
+    "cover": "Cooking/images/Joghurt_Brot.png",
+    "price": "4€"
+  },
+  {
+    "title": "Grain bread (yoghurt)",
+    "ingredients": [
+        "Wheat flour (Type 700 or 480 / 405 in DE) – 500 g",
+        "Salt – 10 g",
+        "Fresh yeast – 2 g",
+        "Water – 420 g"
+    ],
+    "time": [
+        "rest 12 to 18 hours | 50 min 180°C (fan oven)"
+    ],
+    "cover": "Cooking/images/Joghurt_Brot.png",
+    "price": "1.2€"
   }
 ]
