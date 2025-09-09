@@ -1,0 +1,26 @@
+[
+  {
+    "title": "The Witcher Wild Hunt ",
+    "description":"",
+    "rating": "5",
+    "cover": "Games/images/"
+  },
+  {
+    "title": "Baldurs Gate 3",
+    "description":"",
+    "rating": "4",
+    "cover": "Games/images/"
+  },
+  {
+    "title": "Counter-Strike 2",
+    "description":"",
+    "rating": "1",
+    "cover": "Games/images/"
+  },
+  {
+    "title": "Super Smash Bros.",
+    "description":"",
+    "rating": "4",
+    "cover": "Games/images/mrGame_cover.jpg"
+  }
+]
