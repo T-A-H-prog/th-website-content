@@ -2,25 +2,22 @@
   {
     "title": "Don Quijote",
     "author": "Miguel de Cervantes",
-    "description": "You should join Don Quijote and Sancho Panza on their journey.",
+    
     "cover": "Books/images/DonCoverImg.jpg"
   },
   {
     "title": "Dune",
     "author": "Frank Herbert",
-    "description": "It is evident that both 'Dune' and 'God Emperor of Dune' are works of great literary merit.",
     "cover": "Books/images/DuneCoverImg.jpg"
   },
   {
-    "title": "Woman",
+    "title": "Bluebird",
     "author": "Charles Bukowski",
-    "description": "It will trigger something. Something will happen. It will happen in you.",
     "cover": "Books/images/CharlesCoverImg.jpg"
   },
   {
     "title": "Der reichste Mann der Weltgeschichte",
     "author": "Greg Steinmetz",
-    "description": "2 Millionen Gulden",
     "cover": "Books/images/JakopCoverImg.jpg"
   }
 ]
