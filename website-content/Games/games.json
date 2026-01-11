@@ -1,6 +1,6 @@
 [
   {
-    "title": "The Witcher Wild Hunt ",
+    "title": "The Witcher Wild Hunt",
     "description":"",
     "rating": "5",
     "cover": "Games/images/witcher_cover.png"
@@ -28,5 +28,11 @@
     "description":"",
     "rating": "5",
     "cover": "Games/images/kcd_cover.png"
+  },
+  {
+    "title": "Factorio",
+    "description":"",
+    "rating": "4",
+    "cover": "Games/images/factorio_cover.png"
   }
 ]
